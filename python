@@ -3,10 +3,10 @@ def calculate_power(base, exponent):
     if exponent < 0:
         raise ValueError("Exponent must be a positive number")
     
-    # Calculate the power.
+    # Calculate the power
     result = base ** exponent
     return result
 
-# Example usage.
+# Example usage
 result = calculate_power(2, 3)  # Calculate 2 to the power of 3
 print(result)  # Display the result
