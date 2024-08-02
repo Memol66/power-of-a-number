@@ -1,5 +1,5 @@
 def calculate_power(base, exponent):
-    # Check if the exponent is positive.8545
+    # Check if the exponent is positive.85
     if exponent < 0:
         raise ValueError("Exponent must be a positive number")
     
