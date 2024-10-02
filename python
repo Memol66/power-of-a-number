@@ -1,5 +1,6 @@
+# 85000000000000
 def calculate_power(base, exponent):
-    # Check if the exponent is positive.85000000000000
+    # Check if the exponent is positive.
     if exponent < 0:
         raise ValueError("Exponent must be a positive number")
     
