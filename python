@@ -1,4 +1,4 @@
-# 000000
+# 0
 def calculate_power(base, exponent):
     # Check if the exponent is positive.
     if exponent < 0:
